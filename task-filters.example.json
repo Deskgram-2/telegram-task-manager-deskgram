@@ -1,0 +1,8 @@
+{
+  "filters": {
+    "status": ["running", "error"],
+    "module": ["spam_pm", "invite", "neuro_commenting"],
+    "show_history": false
+  },
+  "dashboard_focus": "active_operations"
+}
