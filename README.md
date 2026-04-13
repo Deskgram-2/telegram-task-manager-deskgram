@@ -33,6 +33,14 @@
 4. При необходимости откройте историю или остановите проблемный сценарий.
 5. Контролируйте итог по статистике и карточкам задач.
 
+## Какие сценарии здесь логично контролировать
+
+- [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram), когда важно видеть AI-активность и ошибки в комментариях;
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), когда нужно держать под контролем массовые сообщения;
+- [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram), если парсинг идет параллельно по нескольким источникам;
+- [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram), когда важны лимиты, статусы и проблемные задачи;
+- [Вступление в группы](https://github.com/Deskgram-2/telegram-join-groups-deskgram), если вы следите за прогрессом по аккаунтным сценариям.
+
 ## Интерфейс раздела
 
 ### Главный экран
@@ -75,6 +83,9 @@
 - [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation)
 - [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram)
 - [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
+- [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
+- [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
+- [Вступление в группы](https://github.com/Deskgram-2/telegram-join-groups-deskgram)
 
 ## FAQ
 
