@@ -4,7 +4,16 @@
 
 Диспетчер задач в Deskgram 2 — это раздел для мониторинга, фильтрации и управления запущенными сценариями Telegram-автоматизации. Он объединяет статистику, действия по задачам, историю и контроль выполнения в одном месте.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+## Интерактивный Web Preview
+
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/app-demo/tasks)
+
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/app-demo/tasks)
+
+Планировщик задач: [Открыть веб-планировщик](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fscheduler)
+
+
 
 ## Кратко о разделе
 
